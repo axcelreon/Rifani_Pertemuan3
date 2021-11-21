@@ -8,6 +8,15 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SISTEM INFORMASI SKS"
+        android:textSize="20sp"
+        android:paddingLeft="70dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="10dp"
+        />
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/nama" />
